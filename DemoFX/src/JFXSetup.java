@@ -4,7 +4,6 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.*;
 public class JFXSetup extends Application {
-
     @Override
     public void start(Stage stage) throws Exception {
         // TODO Auto-generated method stub
