@@ -6,6 +6,15 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JFXSetup",
+            "request": "launch",
+            "vmArgs": "--module-path /home/harish/Downloads/openjfx-11.0.2_linux-x64_bin-sdk/javafx-sdk-11.0.2/lib --add-modules javafx.swing,javafx.graphics,javafx.fxml,javafx.media,javafx.controls",
+            "mainClass": "App",
+            "mainClass": "JFXSetup",
+            "projectName": "DemoFX_7bd32696"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
