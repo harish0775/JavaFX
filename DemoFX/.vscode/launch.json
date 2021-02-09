@@ -6,6 +6,29 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TextAreaSliderDemo",
+            "request": "launch","vmArgs": "--module-path /home/harish/Downloads/openjfx-11.0.2_linux-x64_bin-sdk/javafx-sdk-11.0.2/lib --add-modules javafx.swing,javafx.graphics,javafx.fxml,javafx.media,javafx.controls",
+            "mainClass": "TextAreaSliderDemo",
+            "projectName": "DemoFX_7bd32696"
+        },
+        {
+            "type": "java",
+            "name": "Launch PaneTest",
+            "request": "launch",
+            "vmArgs": "--module-path /home/harish/Downloads/openjfx-11.0.2_linux-x64_bin-sdk/javafx-sdk-11.0.2/lib --add-modules javafx.swing,javafx.graphics,javafx.fxml,javafx.media,javafx.controls",
+            "mainClass": "PaneTest",
+            "projectName": "DemoFX_7bd32696"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputForm",
+            "request": "launch",
+            "vmArgs": "--module-path /home/harish/Downloads/openjfx-11.0.2_linux-x64_bin-sdk/javafx-sdk-11.0.2/lib --add-modules javafx.swing,javafx.graphics,javafx.fxml,javafx.media,javafx.controls",
+            "mainClass": "InputForm",
+            "projectName": "DemoFX_7bd32696"
+        },
+        {
+            "type": "java",
             "name": "Launch EventHandling",
             "request": "launch",
             "vmArgs": "--module-path /home/harish/Downloads/openjfx-11.0.2_linux-x64_bin-sdk/javafx-sdk-11.0.2/lib --add-modules javafx.swing,javafx.graphics,javafx.fxml,javafx.media,javafx.controls",

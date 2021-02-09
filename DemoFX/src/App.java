@@ -63,8 +63,8 @@ public class App extends Application
         stage.setScene(sc);
         stage.show();
     }
-    public static void main(String[] args) 
+    public static void main(String[] args)  // main
     {
         launch(args);
-    }   
+    }   //\\
 }
